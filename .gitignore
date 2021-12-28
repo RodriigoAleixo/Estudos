@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+CursoemVídeo/.idea/.name
+CursoemVídeo/.idea/CursoemVídeo.iml
+CursoemVídeo/.idea/misc.xml
+CursoemVídeo/.idea/inspectionProfiles/profiles_settings.xml
+CursoemVídeo/.idea/modules.xml
+CursoemVídeo/main.py
